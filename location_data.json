@@ -1,25 +1,44 @@
 [
-{"name":"images/20221025_121256.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121419.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121446.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121517.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121728.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121814.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121919.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_121952.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122023.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122034.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122044.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122301.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122312.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122427.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122504.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122535.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122616.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122652.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_122851.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_123057.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_123423.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221025_123607.jpg", "x":0, "y":0, "floor":0},
-{"name":"images/20221027_125025.jpg", "x":0, "y":0, "floor":0}
+    {
+        "name": "images/20221025_121419.jpg",
+        "x": 32.2,
+        "y": 92.4,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121446.jpg",
+        "x": 34.8,
+        "y": 84.6,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121517.jpg",
+        "x": 33.8,
+        "y": 73.8,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121728.jpg",
+        "x": 41.6,
+        "y": 84.6,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121814.jpg",
+        "x": 59.2,
+        "y": 84.6,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121919.jpg",
+        "x": 33.8,
+        "y": 66.4,
+        "floor": -1
+    },
+    {
+        "name": "images/20221025_121952.jpg",
+        "x": 55.4,
+        "y": 72,
+        "floor": -1
+    }
 ]
