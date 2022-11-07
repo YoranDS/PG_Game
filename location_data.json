@@ -3,42 +3,42 @@
         "name": "images/20221025_121419.jpg",
         "x": 32.2,
         "y": 92.4,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121446.jpg",
         "x": 34.8,
         "y": 84.6,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121517.jpg",
         "x": 33.8,
         "y": 73.8,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121728.jpg",
         "x": 41.6,
         "y": 84.6,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121814.jpg",
         "x": 59.2,
         "y": 84.6,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121919.jpg",
         "x": 33.8,
         "y": 66.4,
-        "floor": -1
+        "floors": [-1]
     },
     {
         "name": "images/20221025_121952.jpg",
         "x": 55.4,
         "y": 72,
-        "floor": -1
+        "floors": [-1, 0]
     }
 ]
